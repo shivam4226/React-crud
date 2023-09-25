@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Brynn",
+      "email": "dusobo@mailinator.com",
+      "phone": "+1 (834) 674-3074",
+      "role": "femail"
+    },
+    {
+      "id": 2,
+      "name": "Liberty Gilbert",
+      "email": "cimajuqi@mailinator.com",
+      "phone": "+1 (941) 255-6325",
+      "role": "femail"
+    },
+    {
+      "name": "Callum Hutchinson",
+      "email": "movytuq@mailinator.com",
+      "phone": "+1 (996) 556-1625",
+      "role": "other",
+      "id": 3
+    }
+  ]
+}
